@@ -1,6 +1,6 @@
 ---
 title: "UNICEF Consultancy Assessment: Maternal Health Coverage Analysis"
-author: "UNICEF Data and Analytics Technical Evaluation"
+author: 
 date: "`r Sys.Date()`"
 output: 
   github_document:
@@ -12,17 +12,6 @@ output:
     theme: flatly
     highlight: tango
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(
-  echo = TRUE,
-  warning = FALSE,
-  message = FALSE,
-  fig.width = 10,
-  fig.height = 6,
-  dpi = 300
-)
-```
 
 ## Overview
 
