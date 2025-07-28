@@ -1,16 +1,7 @@
 ---
 title: "UNICEF Consultancy Assessment: Maternal Health Coverage Analysis"
 author: 
-date: "`r Sys.Date()`"
-output: 
-  github_document:
-    toc: true
-    toc_depth: 3
-  html_document:
-    toc: true
-    toc_float: true
-    theme: flatly
-    highlight: tango
+date: 7/28/2025
 ---
 
 ## Overview
