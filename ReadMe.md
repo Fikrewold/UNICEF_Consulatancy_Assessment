@@ -211,6 +211,6 @@ This repository contains the tasks for the UNICEF Data and Analytics technical e
 
 ---
 
-*Analysis Date: `r format(Sys.Date(), "%B %d, %Y")`*  
+*Analysis Date: 07/28/25*  
 *Data Sources: UNICEF, UN World Population Prospects 2022*  
 *Generated with R Markdown*
