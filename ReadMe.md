@@ -3,7 +3,7 @@
 
 **UNICEF Data and Analytics Technical Evaluation 2025-07-28**
 
-> **Application Reference**: This is a solution for the position(s) applied for:
+> **Application Reference**: This is a solution for the positions applied for:
 > - **Household Survey Data Analyst Consultant** – Req. #581656
 > - **Microdata Harmonization Consultant** – Req. #581699
 
